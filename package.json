@@ -1,0 +1,17 @@
+{
+  "name": "borozdov-tonic",
+  "private": true,
+  "description": "A retro soda-fountain menu on cream paper: forest-teal headlines in a fat display serif, pill buttons and a shelf of pastel flavors.",
+  "license": "MIT",
+  "scripts": {
+    "fonts": "python3 scripts/embed-fonts.py",
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}
