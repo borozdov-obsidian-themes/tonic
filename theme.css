@@ -171,6 +171,8 @@ body {
   --font-monospace-theme: "SFMono-Regular", "SF Mono", "JetBrains Mono",
     ui-monospace, "Menlo", "Consolas", monospace;
   --font-display: "Playfair Display", "Iowan Old Style", "Georgia", serif;
+  --inline-title-font: var(--font-display);
+  --h1-font: var(--font-display); --h2-font: var(--font-display); --h3-font: var(--font-display);
   --line-height-normal: 1.6;
   --bold-weight: 700;
   --radius-s: 8px;
@@ -248,6 +250,8 @@ body {
   --ribbon-background-collapsed: var(--canvas);
   --status-bar-background: var(--surface);
   --nav-item-background-hover: var(--hover);
+  --nav-item-background-active: var(--sage);
+  --nav-item-color-active: var(--headline);
   --nav-item-background-selected: var(--sage);
   --nav-item-color-selected: var(--headline);
   --nav-indentation-guide-color: var(--hairline);
