@@ -26,8 +26,8 @@ House rules:
 - Colors come from the palette in section 1 of `theme.css`; nothing else holds a color
   literal.
 - Forest teal for headlines and fills, wine red for the caret, pastel washes for callouts.
-  The only embedded font is Playfair Display Black (headlines): `fonts/*.woff2` are
-  written into `theme.css` by `npm run fonts`.
+  The only embedded font is Tonic Serif Black, a renamed subset of Playfair Display Black
+  (headlines): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

@@ -12,8 +12,8 @@ headlines in a fat display serif, pill buttons and a shelf of pastel flavors.
 
 - **Retro apothecary.** Cream paper, white cards, a sage side panel and one authoritative
   forest teal for headlines, fills and the selected file.
-- **Headlines shout, text whispers.** Playfair Display Black at 900 for the title and
-  the first three heading levels; the platform's own sans for everything else.
+- **Headlines shout, text whispers.** Tonic Serif Black at 900 for the title and the first
+  three heading levels; the platform's own sans for everything else.
 - **A shelf of flavors.** Callouts are pastel washes of their type's colour — banana,
   watermelon, apple, grape, cola — with no frame and soft 16px corners.
 - **Pills and cards.** Buttons, fields, tags and checkboxes are round; cards, code and
@@ -43,9 +43,10 @@ Settings → Appearance → Themes.
 
 ## Font
 
-Playfair Display Black (© 2010–2012 Claus Eggers Sørensen, Reserved Font Name "Playfair")
-is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License 1.1 — see
-[`fonts/OFL.txt`](fonts/OFL.txt). One weight, Latin and Cyrillic, headlines only.
+Tonic Serif is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License
+1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). It is a Latin and Cyrillic subset of Playfair
+Display Black (© 2010–2012 Claus Eggers Sørensen), renamed because a modified copy may not
+use the original's Reserved Font Name. One weight, headlines only.
 
 ## License
 
@@ -55,6 +56,6 @@ MIT — see [LICENSE](LICENSE).
 
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Крем» — меню содовой на тёплой
 бумаге, и тёмный «Бутылка» — то же меню сквозь зелёное стекло. Лесные заголовки жирным
-ретро-шрифтом с засечками (Playfair Display), кнопки-пилюли и полка пастельных вкусов в
-колаутах. Устанавливается из каталога: Настройки → Оформление → Темы → Настроить →
-Borozdov Tonic → Установить и применить.
+ретро-шрифтом с засечками (Tonic Serif), кнопки-пилюли и полка пастельных вкусов в колаутах.
+Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Tonic →
+Установить и применить.
